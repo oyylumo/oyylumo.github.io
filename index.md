@@ -1,5 +1,5 @@
 ---
 layout: default
-title: do you see him?
+title: bnuuy
 ---
-![a dog smiles at you](/docs/assets/ozan-hahaha-medium.jpg)
+![bnuuy](/docs/assets/bnuuy.jpg)
